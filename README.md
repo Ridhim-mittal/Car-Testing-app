@@ -1,2 +1,2 @@
-# Car-Testing-app
-In this simulator you can check how much damage will a car take according to its weight and speed.
+# p5.play-boilerplate
+Boiler plate for p5.play
